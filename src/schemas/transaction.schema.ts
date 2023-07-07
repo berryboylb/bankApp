@@ -3,7 +3,7 @@ import { BaseModel, BaseSchema } from "./base.schema";
 import { transactionTypes, PaymentMethod } from "../constants";
 
 export interface ITransaction extends BaseModel {
-  accountId: string;
+  accountId: Schema.Types.ObjectId;
   amount: number;
   type: "debit" | "credit";
   verified: boolean;

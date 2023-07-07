@@ -5,7 +5,7 @@ export interface IAccount extends BaseModel {
   accountNumber: string;
   accountType: string;
   balance: number;
-  User: Schema.Types.ObjectId;
+  user: Schema.Types.ObjectId;
   tier: string;
 }
 

@@ -5,6 +5,10 @@ const router: Router = Router();
 import sampleRouter from './sample';
 router.use('/samples', sampleRouter)
 
+// auth APIS
+import AuthRouter from './auth.routes';
+router.use("/auth", AuthRouter);
+
 // Health-check Endpoint
 router.get('/health', (_req: Request, res: Response) => { res.send('200') })
 

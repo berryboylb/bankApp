@@ -12,7 +12,12 @@ export enum IdentificationType {
   NATIONAL_ID = "national_id",
 }
 
-export const UserTypes: string[] = ["User", "Admin"];
+export enum UserTypes {
+  User = "User",
+  Admin = "Admin",
+}
+
+// export const UserTypes: string[] = ["User", "Admin"];
 export const AccountTierTypes: string[] = ["Tier 1", "Tier 2", "Tier 3"];
 export const AccountTypes: string[] = ["Savings", "Current"];
 export const transactionTypes: string[] = ["debit", "credit"];

@@ -185,3 +185,10 @@ const SampleSchema = new Schema({
 
 const Sample = model<ISampleSchema>("Sample", SampleSchema);
 export default Sample;
+
+export * from "./account.schema";
+export * from "./kyc.schema";
+export * from "./receipt.schema";
+export * from "./statement.schema";
+export * from "./transaction.schema";
+export * from "./user.schema";

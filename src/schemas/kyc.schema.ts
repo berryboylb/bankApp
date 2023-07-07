@@ -11,7 +11,7 @@ export interface IKyc extends BaseModel {
 }
 
 const KycSchemaFields = {
-  userId: { type: Schema.Types.ObjectId, ref: "User", required: true },
+  userId: { type: Schema.Types.ObjectId, ref: "user", required: true },
   identificationType: {
     type: String,
     enum: Object.values(IdentificationType),
