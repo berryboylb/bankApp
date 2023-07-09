@@ -10,7 +10,7 @@ export interface IAccount extends BaseModel {
 }
 
 const AccountSchemaFields = {
-  balance: { type: Number, required: true, default: 0 },
+  balance: { type: Number,  default: 0 },
   accountNumber: {
     type: String,
     required: true,

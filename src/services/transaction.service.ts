@@ -3,7 +3,7 @@ import { TransactionDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
 
-const exportResult = {
+export const TransactionService = {
   async create(reqBody: TransactionDtoType): Promise<ITransaction> {
     const transaction = new TransactionModel(reqBody);
     return transaction.save();
@@ -61,4 +61,3 @@ const exportResult = {
     return TransactionModel.deleteOne({ _id });
   },
 };
-export default exportResult;

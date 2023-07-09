@@ -22,8 +22,8 @@ const TransactionSchemaFields = {
     enum: Object.values(PaymentMethod),
     required: true,
   },
-  verified: { default: false },
-  status: { default: false },
+  verified: { type: Boolean, default: false },
+  status: { type: Boolean, default: false },
 };
 
 const TransactionSchema = new Schema(TransactionSchemaFields).add(BaseSchema);

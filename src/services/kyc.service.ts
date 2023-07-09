@@ -3,7 +3,7 @@ import { KycDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
 
-const exportResult = {
+export const KycService = {
   async create(reqBody: KycDtoType): Promise<IKyc> {
     const kyc = new KycModel(reqBody);
     return kyc.save();
@@ -57,4 +57,3 @@ const exportResult = {
     return KycModel.deleteOne({ _id });
   },
 };
-export default exportResult;

@@ -59,25 +59,29 @@ const UserSchemaFields = {
     trim: true,
   },
   role: {
+    type: String,
     default: "User",
     enum: UserTypes,
   },
   isVerified: {
+    type: Boolean,
     default: false,
   },
   verificationToken: {
+    type: String,
     default: null,
     select: false,
   },
-  verificationExpires: { default: null, select: false },
+  verificationExpires: { type: Date, default: null, select: false },
   loginToken: {
+    type: String,
     default: null,
     select: false,
   },
-  loginTokenExpires: { default: null, select: false },
-  resetToken: { default: null, select: false },
-  resetExpires: { default: null, select: false },
-  passwordChangedOn: { default: null, select: false },
+  loginTokenExpires: { type: Date, default: null, select: false },
+  resetToken: { type: String, default: null, select: false },
+  resetExpires: { type: Date, default: null, select: false },
+  passwordChangedOn: { type: Date, default: null, select: false },
 };
 
 const UserSchema = new Schema(UserSchemaFields).add(BaseSchema);

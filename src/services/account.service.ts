@@ -3,8 +3,8 @@ import { AccountDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
 
-const exportResult = {
-  async create(reqBody: AccountDtoType): Promise<IAccount> {
+export const AccountService = {
+  async create(reqBody:Partial<IAccount>): Promise<IAccount> {
     const account = new AccountModel(reqBody);
     return account.save();
   },
@@ -57,4 +57,3 @@ const exportResult = {
     return AccountModel.deleteOne({ _id });
   },
 };
-export default exportResult;

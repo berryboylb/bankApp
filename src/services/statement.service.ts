@@ -3,7 +3,7 @@ import { StatementDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
 
-const exportResult = {
+export const StatementService = {
   async create(reqBody: StatementDtoType): Promise<IStatement> {
     const statement = new StatementModel(reqBody);
     return statement.save();
@@ -58,4 +58,3 @@ const exportResult = {
     return StatementModel.deleteOne({ _id });
   },
 };
-export default exportResult;

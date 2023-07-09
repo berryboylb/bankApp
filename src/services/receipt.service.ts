@@ -3,7 +3,7 @@ import { ReceiptDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
 
-const exportResult = {
+export const ReceiptService = {
   async create(reqBody: ReceiptDtoType): Promise<IReceipt> {
     const receipt = new ReceiptModel(reqBody);
     return receipt.save();
@@ -58,4 +58,3 @@ const exportResult = {
     return ReceiptModel.deleteOne({ _id });
   },
 };
-export default exportResult;
