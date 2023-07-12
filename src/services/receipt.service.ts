@@ -4,7 +4,7 @@ import moment from "moment";
 import AppError from "../utils/error";
 
 export const ReceiptService = {
-  async create(reqBody: ReceiptDtoType): Promise<IReceipt> {
+  async create(reqBody: Partial<IReceipt>): Promise<IReceipt> {
     const receipt = new ReceiptModel(reqBody);
     return receipt.save();
   },

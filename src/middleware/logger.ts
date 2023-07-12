@@ -1,5 +1,6 @@
 import { Request, Response, NextFunction } from "express";
+import  applogger from "../utils/logger";
 export const logger = (req: Request, res: Response, next: NextFunction) => {
-  console.log("route called " + req.originalUrl);
+   applogger.debug(`route called   ${req.originalUrl}`);
   next();
 };

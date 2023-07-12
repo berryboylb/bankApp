@@ -1,0 +1,4305 @@
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:50:42.234Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:50:42.241Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:51:41.088Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:51:41.096Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:52:14.664Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:52:14.675Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:52:28.195Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:52:28.207Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:52:34.292Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:52:34.300Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:53:25.156Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:53:25.163Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:55:10.056Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:55:10.065Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:58:32.265Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:58:32.291Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:59:34.590Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:59:34.603Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:59:43.240Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:59:43.259Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T15:59:59.250Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T15:59:59.259Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:00:13.291Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:00:13.318Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:02:09.634Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:02:09.642Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:02:16.806Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:02:16.816Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:04:17.725Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:04:17.734Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:04:28.490Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:04:28.501Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:04:35.407Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:04:35.421Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:04:47.197Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:04:47.211Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:06:02.061Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:06:02.069Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:06:32.860Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:06:32.868Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:06:39.601Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:06:39.611Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:06:51.281Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:06:51.291Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:06:57.014Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:06:57.025Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:07:19.720Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:07:19.728Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:07:46.906Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:07:46.923Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:08:06.275Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:08:06.283Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:08:26.721Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:08:26.730Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:08:55.358Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:08:55.368Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:09:43.071Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:09:43.080Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:09:53.386Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:09:53.395Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:10:24.788Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:10:24.800Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:12:04.013Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:12:04.021Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:12:14.494Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:12:14.509Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:12:45.905Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:12:45.918Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:13:14.746Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:13:19.521Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:13:19.735Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:13:23.584Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:13:24.106Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:13:37.057Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:13:37.066Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:20.658Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:20.874Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:21.103Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:21.502Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:21.690Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:32.624Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:33.034Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:14:47.877Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:47.885Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:14:52.006Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:14:52.016Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:15:08.384Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:08.515Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:25.507Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:25.729Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:25.980Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:29.459Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:31.929Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:32.808Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:15:38.678Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:16:39.570Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:16:39.581Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:17:22.241Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:22.259Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:30.782Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:33.610Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:33.810Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:34.335Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:37.413Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:46.526Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:17:53.216Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:18:26.636Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:18:26.650Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:18:57.993Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:18:58.002Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:19:52.724Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:19:52.732Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:20:29.691Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:20:29.700Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:20:43.068Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:20:43.079Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:21:33.599Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:21:33.607Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:22:15.519Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:22:15.528Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:22:37.988Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:22:37.997Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:22:49.134Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:22:49.145Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:23:01.959Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:23:01.974Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:23:11.013Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:23:11.022Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:23:46.504Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:23:46.514Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:24:59.213Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:24:59.413Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:24:59.649Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:25:00.036Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:25:03.400Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:25:07.703Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:25:11.245Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:26:29.464Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:26:29.472Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:26:45.604Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:26:45.619Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:27:03.598Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:27:03.606Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:27:14.660Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:27:14.672Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:27:33.656Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:27:33.668Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:27:52.349Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:27:52.361Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:28:10.653Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:28:10.662Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:28:33.629Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:28:33.637Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:28:49.089Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:28:49.098Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:28:58.435Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:28:58.443Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:29:16.222Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:29:16.231Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:29:31.096Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:29:31.128Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:14.850Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:15.084Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:15.266Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:15.675Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:15.885Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:30.828Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:30:37.377Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:31:19.050Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:31:19.062Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:31:34.484Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:31:34.499Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:32:12.844Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:32:19.989Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:32:20.156Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:32:20.592Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:32:22.993Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:32:25.192Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:33:01.175Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:01.187Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:25.514Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:25.733Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:25.964Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:26.358Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:26.602Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:29.159Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:30.271Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:33:50.699Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:33:50.709Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:34:56.068Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:34:56.083Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:35:37.832Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:35:37.841Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:35:41.615Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:35:41.624Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:36:03.253Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:36:03.264Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:37:29.178Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:37:29.196Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:37:54.208Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:37:54.433Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:37:55.694Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:37:57.998Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:38:00.530Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:38:00.619Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:38:05.325Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:38:36.708Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:38:36.718Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:00.318Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:00.511Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:08.031Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:17.796Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:23.702Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:24.727Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:25.016Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:39:59.161Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:39:59.170Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:40:15.096Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:40:15.105Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:40:31.480Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:40:31.490Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:40:49.880Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:40:49.889Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:17.161Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:17.366Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:17.576Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:17.991Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:21.672Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:30.060Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:41:30.064Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:43:25.886Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:43:25.895Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:43:45.102Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:43:45.112Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:43:57.753Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:43:57.765Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:44:50.735Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:44:50.748Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:45:17.764Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:17.778Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:29.785Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:29.994Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:30.226Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:33.900Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:38.433Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:40.337Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:45:47.207Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:46:36.929Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:46:36.938Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:47:20.816Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:47:20.826Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:47:35.511Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:47:35.518Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:47:44.689Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:47:44.709Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:48:03.045Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:48:03.054Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:48:23.370Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:48:23.581Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:48:27.061Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:48:44.919Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:48:44.927Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:49:18.337Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:49:18.346Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:49:25.564Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:49:25.572Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:49:32.308Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:49:32.319Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:50:28.593Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:50:28.602Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:50:45.089Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:50:45.104Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:50:52.520Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:50:52.529Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:27.247Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:27.486Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:27.671Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:28.073Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:28.270Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:32.399Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:51:55.058Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:52:24.395Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:52:24.407Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:52:59.647Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:52:59.894Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:00.090Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:12.865Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:13.102Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:53:23.764Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:23.774Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:32.122Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:32.358Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:32.568Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:32.929Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:45.343Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:54.639Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:53:54.937Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:54:55.354Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:54:55.362Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:37.676Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:37.904Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:38.096Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:42.116Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:48.564Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:49.293Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:55:53.286Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:57:01.882Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:57:01.889Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:57:39.992Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:57:40.000Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:57:55.606Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:57:55.614Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:58:28.752Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:58:28.760Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:58:43.582Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:58:43.590Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:58:54.604Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:58:54.613Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:59:03.602Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:59:03.612Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T16:59:13.104Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T16:59:13.113Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T16:59:55.560Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T16:59:59.144Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:00:04.751Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:00:40.477Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:00:40.484Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:00:54.551Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:00:54.560Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:26.490Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:26.756Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:26.928Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:30.910Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:31.088Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:36.433Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:01:38.491Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:04:00.474Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:04:00.484Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:04:28.161Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:04:28.171Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:04:41.754Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:04:41.764Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:08.246Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:08.469Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:08.686Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:11.782Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:11.988Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:12.790Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:05:45.290Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:05:45.297Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:10.363Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:13.079Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:13.291Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:13.673Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:16.264Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:20.077Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:06:43.232Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:07:35.668Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:07:35.678Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:09:43.885Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:09:43.894Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T17:09:53.364Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:10:01.362Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:10:01.552Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:10:01.990Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:11:00.796Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:11:00.806Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:11:17.318Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:11:17.327Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:11:25.840Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:11:25.848Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:11:47.108Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:11:47.123Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:12:33.990Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:12:34.003Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:12:50.957Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:12:50.964Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:12:55.157Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:12:55.166Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:13:28.779Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:13:28.788Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ETIMEOUT _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T17:14:47.069Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:17:52.665Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:17:52.675Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:18:12.735Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:18:12.746Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:18:39.697Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:18:39.723Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:19:03.052Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:19:03.060Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:19:42.560Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:19:42.574Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T17:20:17.302Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:21:39.056Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:21:39.065Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:21:54.221Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:21:54.232Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T17:22:05.094Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:05.107Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:20.613Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:24.411Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:25.086Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:25.366Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:27.606Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:28.804Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T17:22:31.669Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:02:22.635Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:02:22.650Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T18:02:46.610Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:02:46.804Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:02:46.997Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:02:56.636Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:02.364Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:03:17.490Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:17.505Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:03:28.253Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:28.264Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:48.862Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:52.620Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:52.814Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:53.281Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:03:58.004Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:04:29.740Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:04:29.755Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:05:04.578Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:05:04.590Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:06:53.927Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:06:53.940Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:07:41.406Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:07:41.445Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:00.645Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:00.850Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:04.399Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:04.607Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:04.811Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:12.240Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:08:16.278Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:10:05.762Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:10:05.774Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T18:10:15.818Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:10:16.060Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:10:16.342Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:11:07.772Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:11:07.785Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:12:32.743Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:12:32.766Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:12:58.916Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:12:58.940Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:10.534Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:10.740Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:10.971Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:11.344Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:18.695Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:21.462Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:13:31.536Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:31.562Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:13:58.866Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:13:58.882Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:15:02.850Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:15:02.873Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:15:53.945Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:16:30.282Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:16:30.299Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:16:34.617Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:19:05.440Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:20:29.180Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:20:29.202Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:20:33.615Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:21:11.523Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:22:18.269Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:22:18.286Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:22:23.798Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:22:29.343Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:22:47.045Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:22:47.053Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:22:54.990Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:23:24.168Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:23:24.209Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:23:43.011Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:23:43.025Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:23:45.911Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:26:53.527Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:28:43.889Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:28:43.902Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:28:48.291Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:29:35.475Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:29:35.485Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:29:37.584Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:30:37.872Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:30:37.887Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:30:40.565Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:32:14.022Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:32:14.052Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:33:58.458Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:34:35.378Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:42:15.702Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:44:24.586Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:48:03.355Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:48:03.368Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:48:08.130Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:48:13.085Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:55:46.159Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:56:07.820Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:57:50.600Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T18:57:50.612Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T18:57:52.678Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T18:59:18.503Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:00:27.323Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:03:47.981Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:03:47.995Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:04:05.658Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:04:38.004Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:04:38.019Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:05:16.848Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:05:16.863Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:05:20.544Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:06:16.316Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:06:16.345Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:06:20.495Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:16:33.583Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:16:33.595Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:19:08.581Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:19:08.600Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:20:12.179Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:20:12.193Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:20:17.246Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:20:52.036Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:20:52.048Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:20:55.219Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:21:19.337Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:21:19.385Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:21:22.823Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:22:17.882Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:22:17.891Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:22:22.784Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:22:57.288Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:22:57.299Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:22:59.682Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:23:21.121Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:23:49.039Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:24:11.475Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:24:11.509Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:26:34.546Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:30:21.744Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:30:50.194Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:30:50.207Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:30:55.206Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:31:17.367Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:31:17.386Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:33:17.373Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:34:06.459Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:35:04.329Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:35:04.339Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:35:06.569Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:40:04.207Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:41:33.751Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:41:33.770Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:43:08.543Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:43:29.799Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:43:29.813Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:43:32.220Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:47:25.644Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:47:25.656Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:47:29.329Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:49:04.656Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:49:04.673Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-09T19:49:08.483Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:53:15.072Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:54:36.163Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T19:55:06.590Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-09T19:55:06.603Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-09T20:02:07.355Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:18:39.157Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:18:39.166Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:19:41.558Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:19:41.567Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:19:44.031Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:19:59.948Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:19:59.957Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:20:02.436Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:20:27.740Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:20:45.857Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:20:45.864Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:20:49.273Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:22:08.958Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:22:08.969Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:22:10.640Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:22:18.081Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:23:10.621Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:23:10.632Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:23:21.648Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:23:30.182Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:23:30.199Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:23:33.590Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:23:37.319Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:24:26.333Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:25:16.500Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:25:35.760Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:25:43.299Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:26:28.687Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:26:28.695Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:26:30.753Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:26:49.930Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:26:49.940Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:26:54.085Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:27:29.848Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:29:04.060Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:29:22.444Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:29:22.455Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:29:24.907Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:30:23.688Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:30:23.696Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:30:27.703Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:30:40.809Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:30:40.818Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:31:29.842Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:31:29.850Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:31:32.488Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:31:57.348Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:34:32.174Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:34:32.191Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:34:34.986Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:35:00.397Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:35:44.047Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:37:59.151Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:37:59.160Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:38:03.592Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:40:03.620Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:40:03.628Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:40:05.440Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:43:08.329Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:44:22.175Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:44:47.399Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:44:47.409Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:44:51.757Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:45:25.581Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:48:19.487Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:49:28.190Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:49:28.199Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:49:31.133Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:49:36.858Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:49:47.929Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:49:47.939Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:50:12.923Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:50:12.931Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:52:39.445Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:52:39.454Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:52:41.761Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:52:52.482Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:52:52.497Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:52:55.145Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:53:31.941Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:53:31.949Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:53:34.747Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:54:27.356Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:54:40.320Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T08:54:40.329Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T08:54:42.303Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T08:56:59.264Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:04:13.477Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:13.485Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:30.096Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:30.762Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:31.507Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:33.990Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:34.541Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:37.680Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:04:51.377Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:05:03.392Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:05:03.402Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:05:42.677Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:05:42.684Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:05:58.983Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:05:58.992Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:06.685Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:07.213Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:10.049Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:11.039Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:11.874Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:12.845Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:12.959Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:06:16.695Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:16.702Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:24.471Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:24.949Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:25.314Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:26.198Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:26.574Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:27.594Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:06:33.611Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:08:27.885Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:27.895Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:08:46.080Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:46.108Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:54.555Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:54.819Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:55.245Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:56.349Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:56.771Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:57.270Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:08:57.403Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:09:22.013Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:22.021Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:29.833Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:31.131Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:32.379Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:33.068Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:33.627Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:34.888Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:35.499Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:09:44.460Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:09:44.468Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:10:02.912Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:02.931Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:14.741Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:15.152Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:15.386Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:16.589Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:17.183Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:17.718Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:18.960Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:10:38.940Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:38.949Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:10:58.368Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:10:58.378Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:11:05.757Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:11:05.774Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:11:29.287Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:11:29.301Z'
+}
+{
+  message: 'Mongodb connected',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:20.192Z'
+}
+{
+  message: '[Mongoose] samples.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:20.749Z'
+}
+{
+  message: '[Mongoose] receipts.createIndex: {"receiptNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:21.869Z'
+}
+{
+  message: '[Mongoose] transactions.createIndex: {"reference":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:22.984Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"email":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:23.830Z'
+}
+{
+  message: '[Mongoose] accounts.createIndex: {"accountNumber":1} {"unique":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:23.833Z'
+}
+{
+  message: '[Mongoose] users.createIndex: {"phoneNumber":1} {"unique":true,"sparse":true,"background":true}',
+  level: 'debug',
+  timestamp: '2023-07-10T09:12:27.698Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:13:05.001Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:13:05.011Z'
+}
+{
+  message: "MongoDB connection error. Please make sure MongoDB is running. MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/",
+  level: 'error',
+  timestamp: '2023-07-10T09:13:38.783Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:13:53.894Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:13:53.904Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:13:56.593Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:14:05.981Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:14:05.996Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:14:09.672Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:14:13.105Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:14:33.871Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:14:33.879Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:14:36.061Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:14:45.972Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:15:16.778Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:24:15.603Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:25:51.966Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:26:42.952Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:26:42.963Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:26:46.473Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:26:57.189Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:26:57.199Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:26:59.789Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:28:39.446Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:29:02.662Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:30:51.285Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:30:51.293Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:30:53.444Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:38:55.130Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:38:55.141Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:38:57.921Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:41:16.274Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:42:10.056Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:42:21.584Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:42:21.597Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:43:03.772Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:43:27.145Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:43:27.170Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:43:30.465Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:44:16.460Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:45:11.275Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:46:12.405Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:46:12.422Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:46:14.226Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:46:55.822Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:48:24.686Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:48:24.701Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:48:26.540Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:52:38.613Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:52:38.629Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:52:44.465Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:52:50.446Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:52:50.466Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:52:56.055Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:53:49.195Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:53:49.211Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:54:01.917Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:55:07.106Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:55:07.121Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:57:14.213Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:57:14.229Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:58:11.847Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:58:11.857Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:58:18.251Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:58:27.293Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:58:27.308Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T09:58:51.826Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T09:58:51.846Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T09:58:54.105Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:01:05.995Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:01:06.008Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:02:06.252Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:02:06.280Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:02:11.466Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:04:04.428Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:04:04.443Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:04:50.422Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:04:50.437Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:04:53.510Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:05:11.763Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:06:38.749Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:06:38.760Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:06:41.623Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:07:28.037Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:07:28.048Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:07:32.096Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:07:51.676Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:07:51.699Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:08:42.180Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:09:24.375Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:09:24.389Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:09:31.132Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:09:38.366Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:09:38.376Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:09:46.863Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:09:53.361Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:09:53.380Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:09:57.756Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:10:18.257Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:11:10.814Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:11:10.826Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:11:16.653Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:12:50.458Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:12:50.471Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:12:54.310Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:14:01.056Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:14:13.303Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:14:13.316Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:14:46.966Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:14:46.977Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:14:56.608Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:15:01.972Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:17:08.341Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:19:26.538Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:19:26.575Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:23:44.757Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:23:44.773Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:23:48.422Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:24:56.473Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:24:56.486Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:25:01.045Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:25:54.257Z'
+}
+{
+  message: 'Logging initialized at debug level',
+  level: 'debug',
+  timestamp: '2023-07-10T10:25:54.273Z'
+}
+{
+  message: 'MongoDB connection error. Please make sure MongoDB is running. Error: querySrv ECONNREFUSED _mongodb._tcp.test.ct3433r.mongodb.net',
+  level: 'error',
+  timestamp: '2023-07-10T10:26:01.950Z'
+}
+{
+  level: 'error',
+  message: 'error',
+  timestamp: '2023-07-10T10:26:08.408Z'
+}

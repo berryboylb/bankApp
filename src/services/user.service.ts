@@ -1,9 +1,13 @@
+import { Request } from "express";
 import { UserModel, IUser } from "../schemas";
 import { RegisterUserDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
 import dotenv from "dotenv";
 import { UserTypes } from "../constants";
+import path from "path";
+import multer, { diskStorage } from "multer";
+import { v4 as uuid } from "uuid";
 
 dotenv.config();
 
@@ -49,19 +53,16 @@ export const UserService = {
     user.save();
     return true;
   },
- 
-  
-  
-  async softDelete(_id: string): Promise<any> {
+
+  async softDelete(_id: string) {
     const user = await UserModel.findById(_id);
     if (!user || user.deletedAt !== null)
       throw new AppError(404, "User not found");
-    await UserModel.findByIdAndUpdate(
+    return await UserModel.findByIdAndUpdate(
       _id,
       { deletedAt: moment().toDate() },
       { new: true }
     );
-    return true;
   },
   async remove(
     userId: string
@@ -78,7 +79,7 @@ export const UserService = {
     return await UserModel.findOneAndUpdate({ email }, { role }, { new: true });
   },
   async checkAdmin(): Promise<boolean> {
-    const user = await UserModel.findOne({ role: UserTypes.Admin});
+    const user = await UserModel.findOne({ role: UserTypes.Admin });
     if (user) return false;
     const adminUser = {
       email: String(process.env.ADMIN_EMAIL),
@@ -101,5 +102,38 @@ export const UserService = {
     await UserModel.create(adminUser);
     return true;
   },
-
 };
+
+const storage = diskStorage({
+  destination: function (req: Request, file: Express.Multer.File, cb) {
+    cb(null, "./upload/userimages");
+  },
+  filename: (
+    req: Request,
+    file: Express.Multer.File,
+    callback: (error: Error | null, filename: string) => void
+  ): void => {
+    const filename: string =
+      path.parse(file.originalname).name.replace(/\s/g, "") + uuid();
+    const extension: string = path.parse(file.originalname).ext;
+    callback(null, `${filename}${extension}`);
+  },
+});
+
+const imageFilter = (
+  req: Request,
+  file: Express.Multer.File,
+  callback: any
+) => {
+  if (!Boolean(file.mimetype.match(/(jpg|jpeg|png|gif)/)))
+    callback(new Error("Filetype not supported"), false);
+  callback(null, true);
+};
+
+export const imageOptions = {
+  limits: { fileSize: 2 * 1024 * 1024 },
+  fileFilter: imageFilter,
+  storage: storage,
+};
+
+export const upload = multer(imageOptions);

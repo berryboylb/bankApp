@@ -47,7 +47,6 @@ export const RegisterUserDto = z.object({
     }),
 });
 
-
 export type RegisterUserDtoType = z.infer<typeof RegisterUserDto>;
 
 export const LoginUserDto = z.object({
@@ -67,3 +66,81 @@ export const LoginUserDto = z.object({
 });
 
 export type LoginUserDtoType = z.infer<typeof LoginUserDto>;
+
+export const EditUserDto = z.object({
+  body: z.object({
+    firstname: z
+      .string()
+      .min(3, { message: "firstname must have at least three characters " })
+      .max(20, {
+        message: "firstname must not be greater than 20 characters",
+      }),
+    lastname: z
+      .string()
+      .min(3, { message: "lastname must have at least three characters " })
+      .max(20, {
+        message: "lastname must not be greater than 20 characters",
+      }),
+    phoneNumber: z
+      .string()
+      .min(10, { message: "phonenumber must be at least 10." }),
+  }),
+});
+
+export type EditUserDtoType = z.infer<typeof EditUserDto>;
+
+export const ForgetPasswordDto = z.object({
+  body: z.object({
+    email: z
+      .string()
+      .email("This is not a valid email.")
+      .trim()
+      .min(8, { message: "Email length must be at least 8." }),
+  }),
+});
+
+export const ResetPasswordDto = z.object({
+  body: z.object({
+    token: z
+      .string()
+      .min(8, {
+        message: "token must not lesser than8 characters",
+      })
+      .max(225, {
+        message: "token must not be greater than 225 characters",
+      }),
+    password: z
+      .string()
+      .min(8, { message: "password must be at least 8 characters" })
+      .max(50, {
+        message: "The password can't accept more than 50 characters",
+      })
+      .refine(
+        (value) =>
+          /^(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}$/.test(value),
+        "Password should contain at least One Uppercase letter, Lowercase letter,numbers and special charcters"
+      ),
+  }),
+});
+
+export const ChangePasswordDto = z.object({
+  body: z.object({
+    password: z
+      .string()
+      .min(8, { message: "password must be at least 8 characters" })
+      .max(50, {
+        message: "The password can't accept more than 50 characters",
+      })
+      .refine(
+        (value) =>
+          /^(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}$/.test(value),
+        "Password should contain at least One Uppercase letter, Lowercase letter,numbers and special charcters"
+      ),
+    currentPassword: z
+      .string()
+      .min(8, { message: "password must be at least 8 characters" })
+      .max(50, {
+        message: "The password can't accept more than 50 characters",
+      }),
+  }),
+});

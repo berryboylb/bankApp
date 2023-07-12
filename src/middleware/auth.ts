@@ -13,6 +13,7 @@ import {
 } from "http-status-codes";
 import { error } from "../utils";
 import { success } from "../utils/response";
+import logger from "../utils/logger";
 dotenv.config();
 
 export const auth = async (
@@ -28,7 +29,7 @@ export const auth = async (
       .json(
         error(
           "error",
-          "No token authourization access denied",
+          "No token authorization access denied",
           StatusCodes.UNAUTHORIZED
         )
       );
@@ -52,7 +53,7 @@ export const auth = async (
     req.user = user;
     next();
   } catch (e) {
-    console.log(e);
+    logger.error(e);
     const message = e instanceof Error ? e.message : "Token is not valid";
     res
       .status(StatusCodes.BAD_REQUEST)
@@ -86,7 +87,7 @@ export const refreshToken = async (
     req.user = user;
     next();
   } catch (e) {
-    console.log(e);
+    logger.error(e);
     const message = e instanceof Error ? e.message : "Token is not valid";
     res.status(401).send(error("error", message, StatusCodes.BAD_REQUEST));
   }
@@ -104,7 +105,7 @@ export function checkRole(
         throw new AppError(StatusCodes.UNAUTHORIZED, "Unauthorized User");
       next();
     } catch (error) {
-      console.log("Check Role Error: ", error);
+     logger.error(`check role error: ${error}`);
       next(error);
     }
   };
@@ -118,7 +119,7 @@ export const checkUser = async (
 ): Promise<void> => {
   const { email, password } = req.body;
   const user = await AuthService.validateUser(email, password);
-  console.log(user);
+  logger.debug(user);
   if (!user) throw new AppError(400, "invalid email/password");
   res.send(success(user, "Success", "Successfully found user", StatusCodes.OK));
 };

@@ -3,13 +3,13 @@ import { v4 as uuid } from "uuid";
 import jwt from "jsonwebtoken";
 import { UserModel } from "../schemas";
 import moment from "moment";
+import { StatusCodes } from "http-status-codes";
+import AppError from "../utils/error";
 export const AuthService = {
   async validateUser(email: string, pass: string): Promise<any | null> {
     const user = await UserModel.findOne({ email }).select("+password");
-    console.log(user);
     if (!user) return null;
     const passwordMatch = await bcrypt.compare(pass, user?.password);
-    console.log(passwordMatch);
     return passwordMatch ? user : null;
   },
   async createForgotPasswordToken(email: string): Promise<string | null> {
@@ -62,6 +62,34 @@ export const AuthService = {
     await UserModel.updateOne(
       { email, deleted: 0 },
       { resetToken: null, resetExpires: null }
+    );
+    return true;
+  },
+
+  async createAccountVerificationToken(email: string): Promise<string | null> {
+    const verificationToken = uuid();
+    const verificationExpires = moment().add(7, "d").toDate();
+    const user = await UserModel.findOneAndUpdate(
+      { email },
+      { verificationToken, verificationExpires }
+    );
+    return user ? verificationToken : null;
+  },
+  async getVerificationToken(token: string): Promise<any> {
+    return await UserModel.findOne({
+      verificationToken: token,
+      verificationExpires: { $gt: Date.now() },
+    });
+  },
+
+  async verifyAccount(token: string): Promise<boolean> {
+    const user = await this.getVerificationToken(token);
+    if (!user) throw new AppError(StatusCodes.BAD_REQUEST, "Invalid token");
+    if (user.isVerified)
+      throw new AppError(StatusCodes.BAD_REQUEST, "Account already verified");
+    await UserModel.updateOne(
+      { email: user.email },
+      { verificationExpires: null, verificationToken: null, isVerified: true }
     );
     return true;
   },

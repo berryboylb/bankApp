@@ -1,5 +1,6 @@
 import { Request, Response, NextFunction } from "express";
 import AppError from "../utils/error";
+import logger from "../utils/logger";
 
 export const errorResponder = (
   error: AppError,
@@ -9,7 +10,7 @@ export const errorResponder = (
 ) => {
   res.header("Content-Type", "application/json");
   const status = error.statusCode || 400;
-  console.log(`An error Occurred: ${error.message}`);
+  logger.error(`An error Occurred: ${error.message}`);
   res.status(status).json({
     status: "error",
     message: error.message,
@@ -25,5 +26,6 @@ export const invalidPathHandler = (
   res: Response,
   next: NextFunction
 ) => {
-  res.status(404).send( req.originalUrl + " is an invalid path");
+  logger.debug(`${req.originalUrl}  is an invalid path`);
+  res.status(404).send(req.originalUrl + " is an invalid path");
 };

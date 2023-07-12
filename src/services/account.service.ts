@@ -1,10 +1,27 @@
-import { AccountModel, IAccount } from "../schemas";
+import { AccountModel, IAccount, ITransaction, IUser } from "../schemas";
 import { AccountDtoType } from "../validators";
 import moment from "moment";
 import AppError from "../utils/error";
+import { StatusCodes } from "http-status-codes";
+import {
+  AccountTierTypes,
+  TransferLimits,
+  DescriptionTypes,
+} from "../constants";
+import app from "../index";
+import EventEmitter from "../events";
+interface EmailTransfers {
+  transaction: ITransaction;
+  firstname: string;
+  sender: IAccount;
+  receiver: IAccount;
+  userReceiver: IUser;
+  amount: number;
+  email: string;
+}
 
 export const AccountService = {
-  async create(reqBody:Partial<IAccount>): Promise<IAccount> {
+  async create(reqBody: Partial<IAccount>): Promise<IAccount> {
     const account = new AccountModel(reqBody);
     return account.save();
   },
@@ -53,7 +70,81 @@ export const AccountService = {
   ): Promise<{ ok?: number; n?: number } & { deletedCount?: number }> {
     const account = await AccountModel.findById(_id);
     if (!account) throw new AppError(404, "account not found");
-    if (account.deletedAt !== null) throw new AppError(400, "account User first");
+    if (account.deletedAt !== null)
+      throw new AppError(400, "account User first");
     return AccountModel.deleteOne({ _id });
+  },
+
+  async senderChecks(sender: IAccount, amount: number): Promise<boolean> {
+    if (sender.balance <= amount)
+      throw new AppError(
+        StatusCodes.BAD_REQUEST,
+        "Insufficient funds, balance must be greater than amount to transfer"
+      );
+    if (sender.tier === AccountTierTypes[0] && amount > TransferLimits.Tier1)
+      throw new AppError(
+        StatusCodes.BAD_REQUEST,
+        `Upgrade your account to ${AccountTierTypes[1]}`
+      );
+    if (sender.tier === AccountTierTypes[1] && amount > TransferLimits.Tier2)
+      throw new AppError(
+        StatusCodes.BAD_REQUEST,
+        `Upgrade your account to ${AccountTierTypes[2]}`
+      );
+    if (sender.tier === AccountTierTypes[2] && amount > TransferLimits.Tier3)
+      throw new AppError(
+        StatusCodes.BAD_REQUEST,
+        `Maximum amount processed online is NGN ${Number(
+          TransferLimits.Tier3
+        ).toLocaleString()}`
+      );
+    return true;
+  },
+
+  async sendNotificationsForTransfers({
+    firstname,
+    sender,
+    transaction,
+    receiver,
+    amount,
+    userReceiver,
+    email,
+  }: EmailTransfers) {
+    const senderHtml = app.render("receipt", {
+      name: firstname,
+      accountNumber: sender.accountNumber,
+      description: DescriptionTypes.Deposit,
+      amount: `NGN ${Number(amount)}`,
+      time: moment().toDate(),
+      balance: `NGN ${Number(sender.balance)}`,
+      reference: transaction.reference,
+    });
+    const receiverHtml = app.render("receipt", {
+      name: firstname,
+      accountNumber: receiver.accountNumber,
+      description: DescriptionTypes.Deposit,
+      amount: `NGN ${Number(amount)}`,
+      time: moment().toDate(),
+      balance: `NGN ${Number(receiver.balance)}`,
+      reference: transaction.reference,
+    });
+
+    //trigger text messages here
+    EventEmitter.emit("mail", {
+      email,
+      subject: `Transaction Alert [${transaction.type} NGN ${Number(
+        amount
+      ).toLocaleString()}`,
+      text: "You've an email",
+      senderHtml,
+    });
+    EventEmitter.emit("mail", {
+      email: userReceiver.email,
+      subject: `Transaction Alert [Credit] NGN ${Number(
+        amount
+      ).toLocaleString()}`,
+      text: "You've an email",
+      receiverHtml,
+    });
   },
 };

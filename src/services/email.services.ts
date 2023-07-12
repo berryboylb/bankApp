@@ -1,5 +1,6 @@
 // import { MailtrapClient } from "mailtrap";
 import nodemailer from "nodemailer";
+import logger from "../utils/logger";
 export type Mail = {
   email: string;
   subject: string;
@@ -26,9 +27,9 @@ export async function sendMail({ email, subject, text, html }: Mail) {
       html,
     });
 
-    console.log("mesage sent", info.messageId);
+    logger.info(`mesage sent, ${info.messageId}`);
   } catch (error) {
     const message = error instanceof Error ? error.message : "An Unknown error occured";
-    console.log(`Error sending email: ${message}`);
+    logger.error(`Error sending email: ${message}`);
   }
 }

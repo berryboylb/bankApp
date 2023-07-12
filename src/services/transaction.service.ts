@@ -4,7 +4,7 @@ import moment from "moment";
 import AppError from "../utils/error";
 
 export const TransactionService = {
-  async create(reqBody: TransactionDtoType): Promise<ITransaction> {
+  async create(reqBody: Partial<ITransaction>): Promise<ITransaction> {
     const transaction = new TransactionModel(reqBody);
     return transaction.save();
   },

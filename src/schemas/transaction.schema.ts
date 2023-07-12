@@ -5,11 +5,12 @@ import { transactionTypes, PaymentMethod } from "../constants";
 export interface ITransaction extends BaseModel {
   accountId: Schema.Types.ObjectId;
   amount: number;
-  type: "debit" | "credit";
+  type: "debit" | "credit" | string;
   verified: boolean;
   paymentMethod: PaymentMethod;
   status: boolean;
   reference: string;
+  receiver: string;
 }
 
 const TransactionSchemaFields = {
@@ -21,6 +22,10 @@ const TransactionSchemaFields = {
     type: String,
     enum: Object.values(PaymentMethod),
     required: true,
+  },
+  receiver:{
+    type: String,
+     required: true,
   },
   verified: { type: Boolean, default: false },
   status: { type: Boolean, default: false },

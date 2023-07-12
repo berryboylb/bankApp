@@ -1,5 +1,6 @@
 import { AnyZodObject } from "zod";
 import { Request, Response, NextFunction } from "express";
+import logger from "../utils/logger"
 
 export const validateSchema =
   (schema: AnyZodObject) =>
@@ -12,6 +13,7 @@ export const validateSchema =
       });
       return next();
     } catch (error: any) {
+      logger.error(error);
       return res.status(400).json({
         status: "error",
         message: `invalid body parameter(s)`,
@@ -35,6 +37,7 @@ export const validateQuery =
       });
       return next();
     } catch (error: any) {
+      logger.error(error);
       return res.status(400).json({
         status: "error",
         message: `invalid query parameter(s)`,
